@@ -9,4 +9,4 @@ def print_money_count(money_count):
     else:
         print('У тебя', money_count, 'рубля')
 for i in range(1,11):
-    print(print_money_count(i))
+    print_money_count(i)
